@@ -1,0 +1,7 @@
+PASSWORD GENERATOR USING PYTHON PROGRAMMING LANGUAGE
+
+This Project Done By UPPU AJAY
+Course Code: INT 213
+Registration Number: 11909983
+Roll No : 56
+email id: ajaypowercontrol@gmail.com
